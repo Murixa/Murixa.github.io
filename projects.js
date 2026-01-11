@@ -2,7 +2,7 @@ const projects = [
   {
     title: "Портфолио",
     description: "Главный проект портфолио, демонстрирует мои навыки и работы.",
-    url: "https://murixa.github.io/Portfolio/",
+    url: "https://murixa.github.io/Portf/",
     img: "foto1.png"
   },
   {
