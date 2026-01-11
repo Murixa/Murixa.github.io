@@ -16,11 +16,11 @@ const projects = [
     description: "Сайт с игрой, интерактивный проект с графикой и логикой игры.",
     url: "https://murixa.github.io/Game_site/",
     img: "foto3.png"
-  }
+  },
    {
     title: "Финальный проект",
     description: "Итоговый проект, объединяющий все полученные навыки.",
-    url: "https://murixa.github.io/Final-project/",
+    url: "https://murixa.github.io/Final_project/",
     img: "foto4.png"
   }
 ];
