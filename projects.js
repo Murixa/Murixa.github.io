@@ -1,12 +1,12 @@
 const projects = [
   {
-    title: "Portfolio",
+    title: "Портфолио",
     description: "Главный проект портфолио, демонстрирует мои навыки и работы.",
     url: "https://murixa.github.io/Portfolio/",
     img: "foto1.png"
   },
   {
-    title: "Model",
+    title: "Dashboard",
     description: "Проект с моделью или демонстрацией работы с данными.",
     url: "https://murixa.github.io/model/",
     img: "foto2.png"
